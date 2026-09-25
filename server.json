@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/us-news-feeds",
   "title": "Us News Feeds",
   "description": "US News Feeds MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/us-news-feeds",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-us-news-feeds",
