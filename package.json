@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-us-news-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "US News Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "us-news-feeds",
     "gatewaySlug": "us-news-feeds",
-    "sourceHash": "v1-aab8fe80d873fc9aa6bfc0ee20652db54946fcb5fad1af85a10d49738e4366bc",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-cd1ed728c7ff150786fb5aa0af47970dbf3f7e72113844f5a4fe91cbbbb5b9ea",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
